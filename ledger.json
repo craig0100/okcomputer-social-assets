@@ -1,0 +1,15 @@
+{
+ "updated": "2026-11-23",
+ "posts": [
+  {"id":"artex","category":"cybersecurity","angle":"FBI ARTEX AI-automated attacks","channels":["linkedin","gbp"],"dueAt":"2026-11-23","image":"2026/artex-ai-attacks-2026-11-23.png"},
+  {"id":"wisp-ptin","category":"compliance","angle":"FTC Safeguards / PTIN W-12 WISP for tax preparers","channels":["linkedin","gbp"],"dueAt":"2026-11-30/2026-12-01","image":"2026/wisp-file-search-2026-11-30.jpg"},
+  {"id":"m365-sms-mfa","category":"microsoft-365","angle":"SMS/voice MFA retirement Feb 2027","channels":["gbp"],"dueAt":"2026-12-01","image":"2026/m365-payphone-2026-12-01.jpg"},
+  {"id":"entra-passkey","category":"microsoft-365","angle":"Entra passkey registration nudge","channels":["linkedin"],"dueAt":"2026-12-02","image":"2026/m365-handset-2026-12-02.jpg"},
+  {"id":"apple-business","category":"apple","angle":"Free Apple Business service / device management","channels":["linkedin","gbp"],"dueAt":"2026-12-02/2026-12-03","image":"2026/apple-divided-2026-12-03.jpg"},
+  {"id":"1A","category":"bcdr","angle":"Ice storm test: restore and sign in from home","channels":["linkedin"],"dueAt":"2026-12-04T07:45:00-06:00","bufferId":"6b03d20ea6de38de9ec0b23e","image":"2026/ice-storm-test-2026-12-04.jpg"},
+  {"id":"1B","category":"bcdr","angle":"Ice storm test: restore and sign in from home","channels":["gbp"],"dueAt":"2026-12-04T11:30:00-06:00","bufferId":"6b03d20fd864a011052428e3","image":"2026/ice-storm-test-2026-12-04.jpg"},
+  {"id":"2A","category":"ai-automation","angle":"Same chatbot, different rules: personal vs work AI accounts","channels":["linkedin"],"dueAt":"2026-12-08T07:45:00-06:00","bufferId":"pending","image":"2026/same-chatbot-different-rules-2026-12-08.jpg"},
+  {"id":"2B","category":"ai-automation","angle":"Same chatbot, different rules: personal vs work AI accounts","channels":["gbp"],"dueAt":"2026-12-08T11:30:00-06:00","bufferId":"pending","image":"2026/same-chatbot-different-rules-2026-12-08.jpg"}
+ ],
+ "nextLeastRecent": ["productivity"]
+}
