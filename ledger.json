@@ -97,9 +97,63 @@
    "dueAt": "2026-12-08T11:30:00-06:00",
    "bufferId": "6b04944e0720ccb67306b889",
    "image": "2026/same-chatbot-different-rules-2026-12-08.jpg"
+  },
+  {
+   "id": "b2-1A",
+   "category": "productivity",
+   "angle": "Holiday inbox coverage: shared mailbox + tested auto-reply",
+   "channels": [
+    "linkedin"
+   ],
+   "dueAt": "2026-12-04T07:45:00-06:00",
+   "bufferId": "6b04db42c43c1f2f5c751ac2",
+   "image": "2026/holiday-inbox-plan-2026-12-04.jpg"
+  },
+  {
+   "id": "b2-1B",
+   "category": "productivity",
+   "angle": "Holiday inbox coverage: shared mailbox + tested auto-reply",
+   "channels": [
+    "gbp"
+   ],
+   "dueAt": "2026-12-04T11:30:00-06:00",
+   "bufferId": "6b04db43c43c1f2f5c751b08",
+   "image": "2026/holiday-inbox-plan-2026-12-04.jpg"
+  },
+  {
+   "id": "b2-3A",
+   "category": "compliance",
+   "angle": "Oklahoma SB 626 breach law: AG notice 500+, 60 days",
+   "channels": [
+    "linkedin"
+   ],
+   "dueAt": "2026-12-15T07:45:00-06:00",
+   "bufferId": "6b04db44c43c1f2f5c751b2d",
+   "image": "2026/oklahoma-breach-law-2026-12-15.jpg"
+  },
+  {
+   "id": "b2-3B",
+   "category": "compliance",
+   "angle": "Oklahoma SB 626 breach law: AG notice 500+, 60 days",
+   "channels": [
+    "gbp"
+   ],
+   "dueAt": "2026-12-15T11:30:00-06:00",
+   "bufferId": "6b04db44f0d7b1e0de9b30a5",
+   "image": "2026/oklahoma-breach-law-2026-12-15.jpg"
   }
  ],
  "nextLeastRecent": [
-  "productivity"
+  "cybersecurity (needs a less obvious angle)",
+  "bcdr",
+  "apple"
+ ],
+ "rejected": [
+  {
+   "date": "2026-11-23",
+   "category": "cybersecurity",
+   "angle": "Boss gift-card text scam staff rule",
+   "reason": "Craig: too basic and obvious"
+  }
  ]
 }
